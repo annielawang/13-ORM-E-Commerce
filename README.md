@@ -24,6 +24,8 @@ Internet retail is the largest sector of the electronics industry. This applicat
 
 ## Usage
 
+[Video link](https://watch.screencastify.com/v/rnvmXONnEdViu4tK4DOa)
+
 When I add my database name, MySQL username, and MySQL password to an environment variable file, I am able to connect to a database using Sequelize.
 When I enter schema and seed commands, a development database is created and is seeded with test data.
 When I enter the command to invoke the application, my server is started and the Sequelize models are synced to the MySQL database
